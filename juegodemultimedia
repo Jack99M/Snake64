@@ -1,0 +1,50 @@
+🐍═══════ PRESENTACIÓN DEL PROYECTO SNAKE ═══════🐍
+           /^\/^\
+         _|__|  O|
+\/     /~     \_/ \
+ \____|__________/  \
+        \_______      \
+                `\     \                 \
+                  |     |                  \
+                 /      /                    \
+                /     /                       \\
+              /      /                         \ \
+             /     /                            \  \
+           /     /             _----_            \   \
+          /     /           _-~      ~-_         |   |
+         (      (        _-~    _--_    ~-_     _/   |
+          \      ~-____-~    _-~    ~-_    ~-_-~    /
+            ~-_           _-~          ~-_       _-~
+               ~--______-~                ~-___-~
+🎮 INTRODUCCIÓN 🎮
+
+Con mucho entusiasmo presentamos el desarrollo del videojuego SNAKE, inspirado en uno de los clásicos más reconocidos de todos los tiempos. Este proyecto fue realizado en Unity, aplicando conocimientos de programación, creatividad y trabajo en equipo para construir un juego dinámico, entretenido y completamente funcional. 💻🎯
+
+El jugador tendrá el desafío de controlar una serpiente en constante movimiento, guiándola por el escenario para recoger alimentos, crecer de tamaño y alcanzar el mayor puntaje posible. Sin embargo, deberá evitar colisionar con los bordes del mapa o con su propio cuerpo, ya que eso provocará el final de la partida. ⚠️🐍
+
+A medida que el juego avanza, la dificultad aumenta y exige mejores reflejos, concentración y estrategia, convirtiendo una mecánica sencilla en una experiencia divertida y competitiva. 🚀
+
+ FUNCIONALIDADES IMPLEMENTADAS
+
+ Menú principal interactivo
+ Escena de juego independiente
+ Movimiento mediante teclado
+ Sistema de colisiones
+ Sonidos al comer y perder
+ Contador de puntos en tiempo real
+ Fin de partida
+ Ejecutable funcional para PC
+ Repositorio Git para control del proyecto
+
+ INTEGRANTES
+
+🐍 Juan Gabriel Ibáñez Copatiti
+🐍 Mauricio Titijana
+🐍 Juan Luis Mayta
+
+🌟 MENSAJE FINAL
+
+Este proyecto representa no solo la creación de un videojuego clásico, sino también el aprendizaje adquirido durante el proceso de desarrollo. Cada detalle fue trabajado con dedicación para demostrar nuestras habilidades en programación, diseño lógico y uso de herramientas modernas de desarrollo. 🎮🔥
+
+        S S S N N N A A A K K K E E E
+             ¡QUE COMIENCE EL JUEGO!
